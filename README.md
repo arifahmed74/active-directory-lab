@@ -1,4 +1,4 @@
-# active-directory-lab
+
 # Active Directory User Management Lab
 
 ## 🧠 Objective

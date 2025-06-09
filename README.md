@@ -8,7 +8,6 @@ Set up and manage Active Directory in a virtual environment to practice user acc
 - Windows Server 2019
 - Active Directory
 - VMware Workstation
-- PowerShell
 - DNS
 
 ## 📝 What I Did
@@ -17,7 +16,7 @@ Set up and manage Active Directory in a virtual environment to practice user acc
 - Created multiple users and organizational units (OUs)
 - Applied Group Policy Objects (GPOs) for password policies and desktop restrictions
 - Tested user permissions and login access
-- Used PowerShell for batch user creation
+
 
 ## 📸 Screenshots
 <img width="800" alt="Screenshot 2025-04-19 at 4 41 05 PM" src="https://github.com/user-attachments/assets/8427f8e2-3f31-4ba7-a611-38a969025069" />
